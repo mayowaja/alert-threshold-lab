@@ -1,0 +1,17 @@
+id,split,score,label
+v1,validation,0.95,1
+v2,validation,0.83,1
+v3,validation,0.74,0
+v4,validation,0.68,0
+v5,validation,0.59,1
+v6,validation,0.45,0
+v7,validation,0.31,0
+v8,validation,0.12,0
+t1,test,0.94,1
+t2,test,0.82,0
+t3,test,0.76,1
+t4,test,0.61,0
+t5,test,0.56,1
+t6,test,0.38,0
+t7,test,0.23,0
+t8,test,0.08,0

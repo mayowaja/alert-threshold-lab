@@ -1,6 +1,10 @@
 # Alert Threshold Lab
 
-How do you choose which model scores should trigger a security alert? This experiment assigns a cost to false alarms and missed risks, selects a threshold on validation data, then measures its performance on a separate test set. It runs offline with Python 3.11+ and the standard library.
+I’m Mayowa, and this is the data side of my cyber security portfolio. While working on my MSc dissertation, I got interested in a deceptively simple question. If a model gives something a risk score, how high should that score be before someone gets an alert?
+
+I’m using this little Python experiment to practise making that decision with data. You can change how costly a missed risk is, run it again and see exactly how many extra false alarms you get. In the sample below, two extra false alarms buy you one more catch.
+
+You can run this offline with Python 3.11+ and the standard library.
 
 ## Reproduce the experiment
 
